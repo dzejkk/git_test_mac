@@ -3,3 +3,5 @@ Testujem mac
 
 
 Hello Odin project bomby 
+
+Adka test
